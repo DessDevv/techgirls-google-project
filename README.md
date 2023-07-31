@@ -8,7 +8,7 @@ Puedes poner en práctica tus habilidadees revisando y utilizando el código a c
 
 *  [1. Introducción](https://github.com/DessDevv/techgirls-google-project#1intro)
 *  [2. Demo](https://github.com/DessDevv/techgirls-google-project#2demo)
-*  [3. ¿Qué construiras?](https://github.com/DessDevv/techgirls-google-project3qu%C3%A9-construiras)
+*  [3. ¿Qué construirás?](https://github.com/DessDevv/techgirls-google-project3qu%C3%A9-construiras)
 *  [4.Objetivos de aprendizaje](https://github.com/DessDevv/techgirls-google-project#4-objetivos-de-aprendizaje)
 *  [5.Requisitos](https://github.com/DessDevv/techgirls-google-project#5-requisitos)
 
